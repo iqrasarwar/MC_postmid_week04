@@ -15,9 +15,9 @@
 ## **DEMO**
 
 ## All Records
-
+<div width="50%" height="500px">
 ![Screenshot_20220821_010827](https://user-images.githubusercontent.com/71145709/185774281-b347bafd-7e41-44e7-8dad-b52101ac8bf0.png)
-
+</div>
 ## Adding New Record
 
 ![Screenshot_20220821_011054](https://user-images.githubusercontent.com/71145709/185774296-9b07708d-71c3-4657-b2cb-97b8bdd89833.png)
