@@ -29,7 +29,7 @@
 <img src="https://user-images.githubusercontent.com/71145709/185774317-d92ac752-fad5-433e-9f01-de9545cfd615.png"  height="500" />
 <img src="https://user-images.githubusercontent.com/71145709/185774326-739ce49d-b17e-4e95-8281-0789302d910f.png"  height="500" />
 
-### Deleting Records
+## Deleting Records
 
 <img src="https://user-images.githubusercontent.com/71145709/185774317-d92ac752-fad5-433e-9f01-de9545cfd615.png"  height="500" />
 <img src="https://user-images.githubusercontent.com/71145709/185774326-739ce49d-b17e-4e95-8281-0789302d910f.png"  height="500" />
