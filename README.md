@@ -1,5 +1,8 @@
 # SQLite Data Base CRUD 
 
+#### [Layout Files](https://github.com/iqrasarwar/SQLite_db_crud/tree/main/app/src/main/res/layout)
+#### [Java Files](https://github.com/iqrasarwar/SQLite_db_crud/tree/main/app/src/main/java/com/example/dbcrud)
+
 ### MianActivity
 - Displays a list of all student record in database and provides a button to add new records.
 - The list of records is a customizex list with **student_item** layout being used as view and **studentListConfig** class sets configuration for list.
