@@ -16,7 +16,7 @@
 
 ## All Records
 
-<img src="https://user-images.githubusercontent.com/71145709/185774281-b347bafd-7e41-44e7-8dad-b52101ac8bf0.png" width="50%" height="500px" />
+<img src="https://user-images.githubusercontent.com/71145709/185774281-b347bafd-7e41-44e7-8dad-b52101ac8bf0.png" width="50%" height="500" />
 
 ## Adding New Record
 
